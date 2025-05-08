@@ -27,26 +27,26 @@ Average swing value (ASV) provides greater context for hitter decision making an
 ## Import R^2 Values
 
 ASV_Shadow_Chase R^2 with same year:
-BB% | .760
-xwOBA | .287
-SwStr% | -.431
-K-BB% | -0.345
+BB% .760 |
+xwOBA .287 |
+SwStr% -.431 |
+K-BB% -0.345 |
 
 O-Swing% R^2 with same year:
-BB% | -.711
-xwOBA | -.266
-SwStr% | .447
-K-BB% | -0.316
+BB% -.711 |
+xwOBA -.266 |
+SwStr% .447 |
+K-BB% -0.316 |
 
 ASV_Shadow_Chase R^2 with next year:
-BB% | 0.583
-WOBA | 0.15
-ASV_Shadow_Chase | 0.754
+BB%  0.583 |
+WOBA 0.15 |
+ASV_Shadow_Chase 0.754 |
 
 O-Swing% R^2 with next year:
-BB% | -0.561
-WOBA | -0.132
-O-Swing% | 0.763
+BB% -0.561 |
+WOBA -0.132 |
+O-Swing% 0.763 |
 
 ### In Season Stabilization
 
